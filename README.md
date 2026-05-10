@@ -4,6 +4,18 @@ This repository contains a collection of Python projects built as part of my bac
 
 The projects focus on strengthening core programming concepts, problem-solving skills, file handling, automation, and backend fundamentals using Python.
 
+## 📂 Repository Structure
+
+```bash
+python-projects-portfolio/
+│
+├── Expense Tracker
+├── File Organizer Tool
+├── Student Record Manager
+```
+
+Each project is organized in its own folder with a dedicated README file explaining the project features, concepts practiced, and implementation details.
+
 ---
 
 ## 📌 Projects Included
