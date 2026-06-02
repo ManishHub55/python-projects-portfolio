@@ -4,5 +4,11 @@ class Expense:
         self.category=category
     
     def show_expense(self):
-        return {"category":self.category,"amount":self.amount}
+        return {
+                "category":self.category,"amount":self.amount
+               }
+
+
+
     
+
