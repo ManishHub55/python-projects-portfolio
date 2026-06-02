@@ -12,6 +12,7 @@ python-projects-portfolio/
 ├── Expense Tracker
 ├── File Organizer Tool
 ├── Student Record Manager
+├── TaskManagerApi
 ```
 
 Each project is organized in its own folder with a dedicated README file explaining the project features, concepts practiced, and implementation details.
@@ -79,13 +80,51 @@ A Python-based student management system implementing CRUD operations.
 
 ---
 
+### 4. TaskManagerApi
+
+A backend task management application built using FastAPI, SQLAlchemy ORM, and PostgreSQL.
+
+#### Features:
+
+* Create tasks
+* Retrieve all tasks
+* Retrieve task by ID
+* Update task information
+* Delete tasks
+* PostgreSQL database integration
+* RESTful API endpoints using FastAPI
+
+#### Concepts Practiced:
+
+* FastAPI fundamentals
+* SQLAlchemy ORM
+* PostgreSQL integration
+* Database CRUD operations
+* Dependency Injection
+* REST API development
+* Backend architecture basics
+
+#### Technologies Used:
+
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* psycopg2
+* Uvicorn
+
+---
+
 ## 🛠️ Technologies Used
 
 * Python
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
 * Git & GitHub
 * JSON
 * File Handling
 * Command Line Interface (CLI)
+* REST APIs
 
 ---
 
@@ -99,9 +138,10 @@ I am currently focused on learning:
 * FastAPI
 * REST APIs
 * PostgreSQL
+* SQLAlchemy ORM
 * Backend System Design
 
-Future projects will include backend APIs, authentication systems, database-driven applications, and AI-integrated backend systems.
+Future projects will include authentication systems, advanced database-driven applications, Dockerized services, and AI-integrated backend systems.
 
 ---
 
